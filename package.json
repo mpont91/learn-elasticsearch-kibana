@@ -1,0 +1,28 @@
+{
+  "name": "learn-elasticsearch-kibana",
+  "version": "1.0.0",
+  "description": "Learn something about elasticsearch and kibana",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slayerbleast/learn-elasticsearch-kibana.git"
+  },
+  "keywords": [
+    "elasticsearch",
+    "kibana",
+    "express"
+  ],
+  "author": "Marc Pont <slayerbleast@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/slayerbleast/learn-elasticsearch-kibana/issues"
+  },
+  "homepage": "https://github.com/slayerbleast/learn-elasticsearch-kibana#readme",
+  "dependencies": {
+    "elasticsearch": "^16.7.2",
+    "express": "^4.17.1"
+  }
+}
